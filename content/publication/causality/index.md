@@ -9,7 +9,7 @@ authors:
   - Jingyu Shi*
   - Andrew Benton
   - Moiz Rasheed
-  - __Hyungjun Doh__
+  - Hyungjun Doh
   - Subramanian Chidambaram
   - Karthik Ramani
 

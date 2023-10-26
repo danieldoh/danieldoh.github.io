@@ -8,7 +8,7 @@ authors:
   - Jingyu Shi*
   - Rahul Jain*
   - Seunggeun Chi*
-  - __Hyungjun Doh__
+  - Hyungjun Doh
   - Hyung-gun Chi
   - Alexander J. Quinn
   - Karthik Ramani
