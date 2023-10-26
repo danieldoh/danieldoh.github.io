@@ -126,7 +126,7 @@ sections:
           description: Conducted research on animation generation from text and human pose by combining two diffusion models.
     design:
       columns: '2'
-  - block: Honors
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
