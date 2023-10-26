@@ -106,7 +106,7 @@ sections:
         - title: Undergraduate Research Assistant
           company: Convergence Design Lab
           company_url: 'https://engineering.purdue.edu/cdesign/wp/'
-          company_logo: CDL
+          company_logo: CDL.png
           location: Purdue University, West Lafayette
           date_start: '2023-01-09'
           date_end: ''
@@ -117,8 +117,7 @@ sections:
         - title: Summer Undergraduate Research Fellowship (SURF)
           company: Engineering Undergraduate Research Office (EURO)
           company_url: ''
-          image: 
-            filename: surf
+          company_logo: surf.png
           location: Purdue University, West Lafayette
           date_start: '2023-05-26'
           date_end: '2023-08-01'
