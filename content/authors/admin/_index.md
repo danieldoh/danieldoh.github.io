@@ -25,7 +25,7 @@ organizations:
     url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are Human-Computer Interaction, Applied Machine Learning, and Mized Reality.
+bio: My research interests are Human-Computer Interaction, Applied Machine Learning, and Mixed Reality.
 
 # Interests to show in About widget
 interests:
@@ -90,7 +90,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: hjddoh@gmail.com
+    link: '/#contact'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-I am a undergraduate student in the Elmore Family School of Electrical and Computer Engineering at Purdue University. I am the member of Convergence Design Lab as a undergraduate research assistant. My research interests are Human-Computer Interaction, Applied Machine Learning, and Mized Reality.
+I am a undergraduate student in the Elmore Family School of Electrical and Computer Engineering at Purdue University. I am the member of Convergence Design Lab as a undergraduate research assistant. My research interests are Human-Computer Interaction, Applied Machine Learning, and Mixed Reality.
 {style="text-align: justify;"}
