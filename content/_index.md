@@ -78,10 +78,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: API
+          tag: API
+        - name: Artificial Intelligence
+          tag: Artificial Intelligence
+        - name: Augmented Reality
+          tag: Augmented Reality
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
