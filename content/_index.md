@@ -176,7 +176,7 @@ sections:
           #company_logo: surf
           logo_folder: surf
           location: Purdue University, West Lafayette
-          date_start: '2022-8-22'
+          date_start: '2022-08-22'
           date_end: '2023-05-07'
           description: |2-
               * Implemented a semantic segmentation neural network to detect cracks and scratches
