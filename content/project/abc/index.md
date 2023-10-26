@@ -3,7 +3,7 @@ title: Vertically Integrated Projects (VIP Smart Cities)
 summary: Computer vision research focused on real-world applications such as detecting cracks and scratches to prevent further damage.
 tags:
   - Computer Vision
-date: '2023-05-04T00:00:00Z'
+date: '2023-12-04T00:00:00Z'
 
 external_link: ''
 
