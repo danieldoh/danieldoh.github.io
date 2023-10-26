@@ -61,7 +61,7 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: portfolio
+  - block: collection
     id: projects
     content:
       title: Projects
@@ -78,14 +78,16 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: API
-          tag: API
+        - name: Augmented Reality
+          tag: Augmented Reality
         - name: Artificial Intelligence
           tag: Artificial Intelligence
         - name: Computer Vision
           tag: Computer Vision
-        - name: Augmented Reality
-          tag: Augmented Reality
+        - name: API
+          tag: API
+
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
