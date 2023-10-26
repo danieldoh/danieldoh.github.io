@@ -61,7 +61,7 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: collection
+  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -112,6 +112,7 @@ sections:
           company_url: 'https://engineering.purdue.edu/cdesign/wp/'
           text: 'Advisor: Prof. Karthik Ramani'
           #company_logo: CDL
+          logo_folder: CDL
           location: Purdue University, West Lafayette
           date_start: '2023-01-09'
           date_end: ''
@@ -124,6 +125,7 @@ sections:
           company_url: 'https://engineering.purdue.edu/Engr/Research/EURO'
           text: 'Advisor: Prof. Mohammad Reza Jahanshahi'
           #company_logo: surf
+          logo_folder: surf
           location: Purdue University, West Lafayette
           date_start: '2023-05-26'
           date_end: '2023-08-01'
