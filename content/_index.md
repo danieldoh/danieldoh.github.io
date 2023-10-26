@@ -108,6 +108,7 @@ sections:
         - title: Undergraduate Research Assistant
           company: Convergence Design Lab
           company_url: 'https://engineering.purdue.edu/cdesign/wp/'
+          text: 'Advisor: Prof. Karthik Ramani'
           #company_logo: CDL
           location: Purdue University, West Lafayette
           date_start: '2023-01-09'
@@ -118,7 +119,8 @@ sections:
               * Conducting HCI Research as a First-Author
         - title: Summer Undergraduate Research Fellowship (SURF)
           company: Engineering Undergraduate Research Office (EURO)
-          company_url: ''
+          company_url: 'https://engineering.purdue.edu/Engr/Research/EURO'
+          text: 'Advisor: Prof. Mohammad Reza Jahanshahi'
           #company_logo: surf
           location: Purdue University, West Lafayette
           date_start: '2023-05-26'
