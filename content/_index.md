@@ -230,12 +230,12 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text:
+      #subtitle:
+      #text:
       # Contact (add or remove contact options as necessary)
       email: hjddoh@gmail.com
-      phone: 
-      appointment_url: 
+      #phone: 
+      #appointment_url: ''
       # address:
       #   street: 450 Serra Mall
       #   city: Stanford

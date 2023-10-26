@@ -17,7 +17,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023-10-18T00:00:00Z'
-doi: ''
+doi: 'https://arxiv.org/pdf/2310.07127.pdf'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-10-18T00:00:00Z'

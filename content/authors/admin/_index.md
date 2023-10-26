@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-I am a undergraduate student in the Elmore Family School of Electrical and Computer Engineering at Purdue University. I am the member of Convergence Design Lab as a undergraduate research assistant. My research interests are Human-Computer Interaction, Applied Machine Learning, and Mixed Reality.
+I am an undergraduate student in the Elmore Family School of Electrical and Computer Engineering at Purdue University. I am a member of the Convergence Design Lab, where I work as an undergraduate research assistant. My research interests include Human-Computer Interaction, Applied Machine Learning, and Mixed Reality.
 {style="text-align: justify;"}
