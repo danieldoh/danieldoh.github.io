@@ -136,7 +136,7 @@ sections:
         - title: Undergraduate Research Assistant
           company: Convergence Design Lab
           company_url: 'https://engineering.purdue.edu/cdesign/wp/'
-          text: 'Advisor: Prof. Karthik Ramani'
+          text: 'Advisor: Dr. Karthik Ramani'
           #company_logo: CDL
           logo_folder: CDL
           location: Purdue University, West Lafayette
@@ -146,16 +146,41 @@ sections:
               * Developing AR Interfaces
               * Participating in HCI Research Projects
               * Conducting HCI Research as a First-Author
+        - title: Teaching Assistant
+          company: ECE 57000 Artificial Intelligence
+          company_url: 'https://www.davidinouye.com/'
+          text: 'Dr. David I. Inouye'
+          #company_logo: CDL
+          logo_folder: CDL
+          location: Purdue University, West Lafayette
+          date_start: '2023-08-28'
+          date_end: ''
+          description: |2-
+              * Weekly Office hour
+              * Answering Questions
+              * Grading Assignments
         - title: Summer Undergraduate Research Fellowship (SURF)
           company: Engineering Undergraduate Research Office (EURO)
           company_url: 'https://engineering.purdue.edu/Engr/Research/EURO'
-          text: 'Advisor: Prof. Mohammad Reza Jahanshahi'
+          text: 'Advisor: Dr. Karthik Ramani'
           #company_logo: surf
           logo_folder: surf
           location: Purdue University, West Lafayette
           date_start: '2023-05-26'
           date_end: '2023-08-01'
           description: Conducted research on animation generation from text and human pose by combining two diffusion models.
+        - title: Vertically Integreated Projects Smart Cities
+          company: 
+          company_url: 'https://engineering.purdue.edu/Engr/Research/EURO'
+          text: 'Advisor: Dr. Mohammad Reza Jahanshahi'
+          #company_logo: surf
+          logo_folder: surf
+          location: Purdue University, West Lafayette
+          date_start: '2022-8-22'
+          date_end: '2023-05-07'
+          description: |2-
+              * Implemented a semantic segmentation neural network to detect cracks and scratches
+              * Generated 56 cracks and scratched datasets, each comprising 308 images, by utilizing the Houdini program.
     design:
       columns: '2'
   - block: accomplishments
@@ -171,9 +196,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://coursera.org/share/eec87e2d0450d5ce3a02ff76e919b46a
+          date_end: '2022-11-07'
+          date_start: '2022-11-07'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
