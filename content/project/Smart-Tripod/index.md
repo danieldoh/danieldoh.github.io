@@ -1,5 +1,5 @@
 ---
-title: Samrt Tripod
+title: Smart Tripod
 summary: Senior Design Project, Smart Tripod supporiting object detection and hand gesture recognition.
 tags:
   - Computer Vision

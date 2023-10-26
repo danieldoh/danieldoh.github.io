@@ -86,12 +86,12 @@ sections:
           tag: Computer Vision
         - name: API
           tag: API
-  #   design:
-  #     # Choose how many columns the section has. Valid values: '1' or '2'.
-  #     columns: '1'
-  #     view: showcase
-  #     # For Showcase view, flip alternate rows?
-  #     flip_alt_rows: false
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
   # - block: collection
   #   id: posts
   #   content:
