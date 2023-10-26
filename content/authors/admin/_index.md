@@ -18,7 +18,6 @@ superuser: true
 
 # Role/position/tagline
 role: Undergraduate Student
-position: Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
