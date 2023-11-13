@@ -29,11 +29,10 @@ bio: My research interests are Human-Computer Interaction, Applied Machine Learn
 
 # Interests to show in About widget
 interests:
-  - Human-Computer Interaction
-  - Applied Machine Learning
-  - Mixed Reality
-  - Optimization-Based Interfaces
+  - Human-AI Interaction
+  - Augmented / Mixed Reality
   - Artificial Intelligence
+  - AI-Infused interfaces 
   - Computer Vision
 
 # Education to show in About widget
@@ -117,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-I am an undergraduate student in the Elmore Family School of Electrical and Computer Engineering at Purdue University. I am a member of the Convergence Design Lab, where I work as an undergraduate research assistant. My research interests include Human-Computer Interaction, Applied Machine Learning, and Mixed Reality.
+I am an undergraduate student in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I am a member of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), where I work as an undergraduate research assistant. My research interests lie Human-AI interaction and its practical applications, particularly within Augmented/Mixed Reality and interfaces infused with artificial intelligence
 {style="text-align: justify;"}
