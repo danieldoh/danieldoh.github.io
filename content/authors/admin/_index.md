@@ -40,7 +40,7 @@ education:
   courses:
     - course: BS in Computer Engineering
       institution: Purdue University
-      year: 2023
+      year: 2023 (expected)
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -116,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-I am an undergraduate student in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I am a member of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), where I work as an undergraduate research assistant. My research interests lie Human-AI interaction and its practical applications, particularly within Augmented/Mixed Reality and interfaces infused with artificial intelligence
+I am an undergraduate student in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I am a member of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), where I work as an undergraduate research assistant. My research interests are Human-AI interaction and its practical applications, particularly within Augmented/Mixed Reality and interfaces infused with artificial intelligence
 {style="text-align: justify;"}
