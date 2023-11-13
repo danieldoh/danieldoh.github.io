@@ -49,10 +49,10 @@ image:
 2. Implemented a **semantic segmentation neural network** to detect cracks and scratches.
     - Extracted the **crack mask** and **scratch mask**.
     - Multiclass Semantic Segmentation Network.
-    - Labeled each dataset
-      - 0: Background
-      - 1: Crack
-      - 2: Scratch
+      - Labeled each dataset
+        - 0: Background
+        - 1: Crack
+        - 2: Scratch
     - Training
       - Model: U-Net (Transfer Learning)
       - Loss Function: Cross Entropy Loss
