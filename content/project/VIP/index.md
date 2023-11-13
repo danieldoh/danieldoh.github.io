@@ -17,13 +17,11 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 ---
-## Project Description
-
-VIP Data Science for Smart Cities
+## VIP Data Science for Smart Cities
 
 - The Data Science for Smart Cities project aims to conduct interdisciplinary research to develop data analytics tools using robotics and autonomous sensing for condition assessment of urban systems.
 
-## Motivations
+## Research Motivation and Approach
 
 **Detecting Cracks and Scratches**
   - Ensure public safety.
