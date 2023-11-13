@@ -19,7 +19,7 @@ image:
 ---
 ## VIP Data Science for Smart Cities
 
-- Advisor: [Professor Jahanshahi](https://engineering.purdue.edu/CE/People/view_person?resource_id%253D113437)
+- Advisor: [Professor Jahanshahi](https://engineering.purdue.edu/CE/People/view_person?resource_id=253D113437)
 - The Data Science for Smart Cities project aims to conduct interdisciplinary research to develop data analytics tools using robotics and autonomous sensing for condition assessment of urban systems.
 
 ## Research Motivation and Approach
@@ -40,13 +40,13 @@ image:
 
 ## Contribution
 
-1. Generated 56 datasets, each with 308 images, of cracks and scratches using Houdini. 
+1. Generated 56 **datasets**, each with 308 images, of cracks and scratches using Houdini. 
     - Applied skeletonization to the binary crack images.
     - Manually drew realistic scratches.
     - Generated a 3D wall with cracks and scratches.
     - Rendering the 3D scene and captured 308 images using camera movement.
   
-2. Implemented a semantic segmentation neural network to detect cracks and scratches.
+2. Implemented a **semantic segmentation neural network** to detect cracks and scratches.
     - Extract the **crack mask** and **scratch mask**.
     - Multiclass Semantic Segmentation Network.
     - Label each dataset
