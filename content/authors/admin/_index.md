@@ -25,7 +25,7 @@ organizations:
     url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are Human-Computer Interaction, Applied Machine Learning, and Mixed Reality.
+bio: My research interests are Human-AI interaction and its practical applications, particularly within Augmented/Mixed Reality and interfaces infused with artificial intelligence.
 
 # Interests to show in About widget
 interests:
