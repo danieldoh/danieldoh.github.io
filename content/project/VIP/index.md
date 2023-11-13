@@ -34,8 +34,8 @@ image:
 
 **Why 3D Program**
   - Can generate a large amount of data easily. 
-  - Problem: Cracks and scratches may look similar from certain angles due to lighting.
-    - Can be distinguished by changing viewpoints.
+  - Problem: Cracks and scratches may **look similar** from certain angles due to lighting.
+    - Can be distinguished with **different viewpoints**.
 
 
 ## Contribution
@@ -47,9 +47,9 @@ image:
     - Rendering the 3D scene and captured 308 images using camera movement.
   
 2. Implemented a **semantic segmentation neural network** to detect cracks and scratches.
-    - Extract the **crack mask** and **scratch mask**.
+    - Extracted the **crack mask** and **scratch mask**.
     - Multiclass Semantic Segmentation Network.
-    - Label each dataset
+    - Labeled each dataset
       - 0: Background
       - 1: Crack
       - 2: Scratch
