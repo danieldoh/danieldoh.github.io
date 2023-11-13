@@ -26,18 +26,17 @@ VIP Data Science for Smart Cities
 ## Motivations
 
 **Detecting Cracks and Scratches**
-
-    - Keep public safety
-    - Prevent further damages
+  - Ensure public safety.
+  - Prevent further damages.
 
 **Approach**
-    - Using 3D program (Houdini) to create a dataset.
-    - Using semantic segmentation network to detect cracks and scratches.
+  - Use a 3D program (Houdini) to create a dataset.
+  - Apply a semantic segmentation network to detect cracks and scratches.
 
 **Why 3D Program**
-    - Can generate a large amount of data easily. 
-    - Problem: Cracks and scratches could look similar from certain angles. 
-        - Can be distinguished by changing viewpoints.
+  - Can generate a large amount of data easily. 
+  - Problem: Cracks and scratches may look similar from certain angles due to lighting.
+    - Can be distinguished by changing viewpoints.
 
 
 ## Contribution
@@ -48,5 +47,18 @@ VIP Data Science for Smart Cities
     - Generated a 3D wall with cracks and scratches.
     - Rendering the 3D scene and captured 308 images using camera movement.
   
-2. Implemented a semantic segmentation neural network to detect cracks and scratches
-    - 
+2. Implemented a semantic segmentation neural network to detect cracks and scratches.
+    - Extract the **crack mask** and **scratch mask**.
+    - Multiclass Semantic Segmentation Network.
+    - Label each dataset
+      - 0: Background
+      - 1: Crack
+      - 2: Scratch
+    - Training
+      - Model: U-Net (Transfer Learning)
+      - Loss Function: Cross Entropy Loss
+      - Optimizer: Adam
+      - Learning Rate: 0.0001
+      - Epochs: 20
+    - Evaluation
+      - Uncertainty Quantification
