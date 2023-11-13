@@ -17,7 +17,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023-10-18T00:00:00Z'
-doi: 'https://arxiv.org/pdf/2310.07127.pdf'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-10-18T00:00:00Z'
@@ -25,7 +25,7 @@ publishDate: '2023-10-18T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-#publication_types: ['paper-conference']
+publication_types: ['Preprints']
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*

@@ -41,7 +41,7 @@ summary: Submitted to 2024 CHI Conference on Human Factors in Computing Systems
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

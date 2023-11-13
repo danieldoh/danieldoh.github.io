@@ -27,13 +27,13 @@ publishDate: '2023-10-18T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-#publication_types: ['paper-conference']
+publication_types: ['Preprints']
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: ''
+abstract: 'Mixed Reality (MR) is gaining prominence in manual task skill learning due to its in-situ, embodied, and immersive experience. To teach manual tasks, current methodologies break the task into hierarchies (tasks into subtasks) and visualize the current subtask and future in terms of causality. Existing psychology literature also shows that humans learn tasks by breaking them into hierarchies. In order to understand the design space of information visualized to the learner for better task understanding, we conducted a user study with 48 users. The study was conducted using a complex assembly task, which involves learning of both actions and tool usage. We aim to explore the effect of visualization of causality in the hierarchy for manual task learning in MR by four options: no causality, event level causality, interaction level causality, and gesture level causality. The results show that the user understands and performs best when all the level of causality is shown to the user. Based on the results, we further provide design recommendations and in-depth discussions for future manual task learning systems.'
 
 # Summary. An optional shortened abstract.
 summary: Submitted to 2024 CHI Conference on Human Factors in Computing Systems
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2310.13167.pdf'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
