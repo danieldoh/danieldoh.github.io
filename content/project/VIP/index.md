@@ -1,5 +1,5 @@
 ---
-title: Vertically Integrated Projects (VIP Smart Cities)
+title: Vertically Integrated Projects (Data Sciences for Smart Cities)
 summary: Computer vision research focused on real-world applications such as detecting cracks and scratches to prevent further damage.
 tags:
   - Computer Vision
@@ -19,6 +19,7 @@ image:
 ---
 ## VIP Data Science for Smart Cities
 
+- Advisor: [Professor Jahanshahi](https://engineering.purdue.edu/CE/People/view_person?resource_id%253D113437)
 - The Data Science for Smart Cities project aims to conduct interdisciplinary research to develop data analytics tools using robotics and autonomous sensing for condition assessment of urban systems.
 
 ## Research Motivation and Approach
