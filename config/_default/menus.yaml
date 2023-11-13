@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
+  - name: Preprints
     url: '#featured'
     weight: 20
   - name: Projects
