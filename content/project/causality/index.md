@@ -12,10 +12,10 @@ image:
   caption: 
   focal_point: 
 ---
-**Authorship: ** Co-Author
 [Paper Link](https://danieldoh.github.io/publication/causality/)
 
 # Contribution
+**Authorship: Co-Author**
 
 - Implemented a Mixed Reality (MR) interface to facilitate the learning of an assembly task by incorporating visual representations of causal relationships within the task.
   - Utilized **Unity**

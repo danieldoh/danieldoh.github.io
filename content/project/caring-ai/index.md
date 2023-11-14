@@ -14,9 +14,10 @@ image:
   caption: 
   focal_point: 
 ---
-**Authorship: ** Co-Author
+
 
 # Contribution
+**Authorship: Co-Author**
 
 - Implemented an AR interface for authoring AR instructions based on textual input describing tasks, avatars’ trajectory, and directional vision. 
   - Utilized **Unity**.
