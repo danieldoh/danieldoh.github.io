@@ -3,7 +3,7 @@ title: 'Paper Review: AR-Enhanced Workouts: Exploring Visual Cues for At-Home Wo
 subtitle: ''
 
 # Summary for listings and search engines
-summary: ''
+summary: 'UIST 2023'
 
 # Link this post with a project
 projects: []
@@ -32,10 +32,10 @@ authors:
   - admin
 
 tags:
-  - Course Project
+  - Undergraduate Research
 
 categories:
-  - API
+  - Augmented Reality
 
 ---
 ## Problem 
@@ -43,31 +43,31 @@ categories:
 - Failed to provide effective feedback
 
 ## Solution
-### AR
+**AR:**
   - Workout video centered in the user’s field of view
   - Real-time visual feedback
-### Additional Camera:
+**Additional Camera:**
   - For the full-body status of the users
   - Give feedback to adjust users’ movements in real-time
-  
+
 ## Design Space
-### Data:
-    - Motion-data:
-      - The movements that users need to pay attention
-      - Movement direction & sequence
-    - Non-motion data:
-      - Goals that users only need to aim to achieve
-      - Body skeleton (give feedback using joints)
-      - Visual metaphors 
-        - Chair (where to squat)
-        - Cone (height)
-### Task: 
+**Data:**
+  - Motion-data:
+    - The movements that users need to pay attention
+    - Movement direction & sequence
+  - Non-motion data:
+    - Goals that users only need to aim to achieve
+    - Body skeleton (give feedback using joints)
+    - Visual metaphors 
+      - Chair (where to squat)
+      - Cone (height)
+**Task:** 
   - Identification:
     - Key movement information -> better understanding
   - Comparison:
     - Apply superposition
     - Overlaying users’ exercise performance onto standard visual cues
-### Situation:
+**Situation:**
   - Address frequent viewpoint shifts
     - Floating screen (out of sight)
     - On-ground (within sight)
