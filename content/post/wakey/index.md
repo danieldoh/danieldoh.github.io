@@ -1,5 +1,5 @@
 ---
-title: 'Paper Review: REFRAME: An Augmented Reality Storyboarding Tool for Character-Driven Analysis of Security & Privacy Concerns' 
+title: 'Paper Review: Wakey-Wakey: Animate Text by Mimicking Characters in a GIF' 
 subtitle: ''
 
 # Summary for listings and search engines
