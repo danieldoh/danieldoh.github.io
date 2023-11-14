@@ -14,10 +14,17 @@ image:
   caption: 
   focal_point: 
 ---
-## Contribution
+**Authorship: ** Co-Author
+
+# Contribution
 
 - Implemented an AR interface for authoring AR instructions based on textual input describing tasks, avatars’ trajectory, and directional vision. 
+  - Utilized **Unity**.
+  - Implemented based on **MixedRealityToolkit**.
+  - Deployed to **Hololens2**.
+
 - Contributed by developing various application scenarios for this system in diverse contexts.
 - Developed a user interface for a user study and evaluated the system.
+  - ![screen reader text](caring_interface.jpg "Figure 2: User Study Interface")
 
 

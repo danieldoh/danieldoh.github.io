@@ -18,12 +18,12 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 ---
-## VIP Data Science for Smart Cities
+# VIP Data Science for Smart Cities
 
 - Advisor: [Professor Jahanshahi](https://engineering.purdue.edu/CE/People/view_person?resource_id=113437)
 - The Data Science for Smart Cities project aims to conduct interdisciplinary research to develop data analytics tools using robotics and autonomous sensing for condition assessment of urban systems.
 
-## Research Motivation and Approach
+# Research Motivation and Approach
 
 ![screen reader text](vip_motivation.jpg "Figure 1: Crack on the wall")
 **Detecting Cracks and Scratches**
@@ -40,7 +40,7 @@ image:
     - Can be distinguished with **different viewpoints**.
 
 
-## Contribution
+# Contribution
 
 1. Generated 56 **datasets**, each with 308 images, of cracks and scratches using Houdini. 
     - Applied skeletonization to the binary crack images.

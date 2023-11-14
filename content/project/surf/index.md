@@ -4,7 +4,7 @@ summary: Conducted individual research by implementing an animation generation p
 tags:
   - Undergraduate Research
   - Artificial Intelligence
-date: "2023-10-5T00:00:00Z"
+date: "2023-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,7 +12,7 @@ image:
   caption: "SURF Symposium Poster"
   focal_point: 
 ---
-## Animation from Text and Pose
+# Animation from Text and Pose
 
 **Research Problem**
 - Animation is hard and only a select few can create animations today.
@@ -28,7 +28,7 @@ image:
 **Applications**
 - Animation
 
-## Methodology
+# Methodology
 
 ![screen reader text](surf_pipeline.jpg "Figure 1: Pipeline of Animation from Text and Pose")
 
@@ -43,12 +43,12 @@ image:
 - Enable user interaction through mouse movement.
 - Implemented with OpenCV.
 
-## Results
+# Results
 ![screen reader text](surf_1.jpg "Figure 2: Characters and Background Variation")
 ![screen reader text](surf_2.jpg "Figure 3: Captain America kicks with his right leg in the snow")
 ![screen reader text](surf_path.jpg "Figure 4: An astronaut is dancing on the moon & Path drawing tool")
 
-## Conclusion
+# Conclusion
 - Generated video showed strong alignment with provided prompts and pose
 - Interaction with the users by providing path drawing tools
 

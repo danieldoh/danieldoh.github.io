@@ -12,12 +12,12 @@ image:
   caption: 
   focal_point: 
 ---
-## Package Manager Application Programming Interface
+# Package Manager Application Programming Interface
 
 **ECE 46100 Software Engineering**  
 [Source Code](https://github.com/danieldoh/PackageManager)
 
-## Contribution
+# Contribution
 
 - Implemented a REST API that manages packages.
   - **Tools Used:**
