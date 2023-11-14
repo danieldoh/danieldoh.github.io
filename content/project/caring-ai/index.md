@@ -1,6 +1,7 @@
 ---
 title: 'CARING-AI: Toward Authoring Context-aware Augmented Reality, INstruction through Generative Artificial Intelligence'
-summary: 'ECE 46100 Software Engineering course semester-long project.'
+summary: 'Designed a code-less and Mocap-free workflow for authoring animated humanoid avatar instructions
+in AR with Generative-AI that is contextually aware of the human, environment, and system.'
 tags:
   - Undergraduate Research
   - Mixed Reality
