@@ -44,6 +44,7 @@ image:
 
 1. Generated 56 **datasets**, each with 308 images, of cracks and scratches using Houdini. 
     - Applied skeletonization to the binary crack images.
+    ![screen reader text](vip_skeleton.jpg "Skeletonization")
     - Manually drew realistic scratches.
     - Generated a 3D wall with cracks and scratches.
     - Rendering the 3D scene and captured 308 images using camera movement.
@@ -62,4 +63,7 @@ image:
       - Learning Rate: 0.0001
       - Epochs: 20
     - Evaluation
+    ![screen reader text](vip_uncertainty.jpg "Evaluation")
+    ![screen reader text](vip_uncertain2.jpg "Uncertainty")
       - Uncertainty Quantification
+      
