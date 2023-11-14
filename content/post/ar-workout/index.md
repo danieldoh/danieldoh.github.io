@@ -38,6 +38,7 @@ categories:
   - Augmented Reality
 
 ---
+[DOI](https://dl.acm.org/doi/10.1145/3586183.3606796)
 ## Problem 
 - Hard to quickly learn the correct movements from the 2D video
 - Failed to provide effective feedback
@@ -69,7 +70,7 @@ categories:
   - Comparison:
     - Apply superposition
     - Overlaying users’ exercise performance onto standard visual cues
-    
+
 **Situation:**
   - Address frequent viewpoint shifts
     - Floating screen (out of sight)

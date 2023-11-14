@@ -4,7 +4,7 @@ summary: Reviewed 154 papers on Generative AI applications and synthesized a tax
 tags:
   - Undergraduate Research
   - Artificial Intelligence
-date: "2023-10-5T00:00:00Z"
+date: "2023-09-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
