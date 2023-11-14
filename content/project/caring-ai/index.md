@@ -1,7 +1,8 @@
 ---
-title: An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions
+title: 'CARING-AI: Toward Authoring Context-aware Augmented Reality, INstruction through Generative Artificial Intelligence'
 summary: ECE 46100 Software Engineering course semester-long project.
 tags:
+  - Augmented / Mixed Reality
   - Artificial Intelligence
 date: "2023-05-4T00:00:00Z"
 
