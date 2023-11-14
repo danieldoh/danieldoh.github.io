@@ -217,7 +217,6 @@ sections:
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
-        - title: Summer Undergraduate Research Fellowship (SURF)
     design:
       columns: '2'
   
