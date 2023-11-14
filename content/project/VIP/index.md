@@ -25,6 +25,7 @@ image:
 
 ## Research Motivation and Approach
 
+![screen reader text](vip_motivation.jpg "Crack on the wall")
 **Detecting Cracks and Scratches**
   - Ensure public safety.
   - Prevent further damages.

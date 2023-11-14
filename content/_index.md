@@ -203,12 +203,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Summer Undergraduate Research Fellowship (SURF)
-          date_end: '2023-08-01'
-          date_start: '2023-05-22'
-          url: ''
-          organization: Engineering Undergraduate Research Office (EURO)
-          organization_url: https://engineering.purdue.edu/Engr/Research/EURO
+        # - title: Summer Undergraduate Research Fellowship (SURF)
+        #   date_end: '2023-08-01'
+        #   date_start: '2023-05-22'
+        #   url: ''
+        #   organization: Engineering Undergraduate Research Office (EURO)
+        #   organization_url: https://engineering.purdue.edu/Engr/Research/EURO
         - certificate_url: https://coursera.org/share/eec87e2d0450d5ce3a02ff76e919b46a
           date_end: '2022-11-07'
           date_start: '2022-11-07'
