@@ -2,6 +2,7 @@
 title: 'Visualizing Causality in Mixed Reality for Manual Task Learning: An Exploratory Study'
 summary: ECE 46100 Software Engineering course semester-long project.
 tags:
+  - Undergraduate Research
   - Augmented Reality
 date: "2023-09-18T00:00:00Z"
 

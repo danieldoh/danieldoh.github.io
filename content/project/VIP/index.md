@@ -2,6 +2,7 @@
 title: Vertically Integrated Projects (Data Sciences for Smart Cities)
 summary: Computer vision research focused on real-world applications such as detecting cracks and scratches to prevent further damage.
 tags:
+  - Undergraduate Research
   - Computer Vision
 date: '2023-05-04T00:00:00Z'
 

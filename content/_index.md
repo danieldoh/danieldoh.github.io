@@ -61,6 +61,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Undergraduate Research
+          tag: Undergraduate Research
+        - name: Course Project
+          tag: Course Project
         - name: Augmented Reality
           tag: Augmented Reality
         - name: Mixed Reality
