@@ -25,7 +25,7 @@ image:
 
 ## Research Motivation and Approach
 
-![screen reader text](vip_motivation.jpg "Crack on the wall")
+![screen reader text](vip_motivation.jpg "Figure 1: Crack on the wall")
 **Detecting Cracks and Scratches**
   - Ensure public safety.
   - Prevent further damages.
@@ -44,26 +44,27 @@ image:
 
 1. Generated 56 **datasets**, each with 308 images, of cracks and scratches using Houdini. 
     - Applied skeletonization to the binary crack images.
-    ![screen reader text](vip_skeleton.jpg "Skeletonization")
+    ![screen reader text](vip_skeleton.jpg "Figure 2: Skeletonization")
     - Manually drew realistic scratches.
     - Generated a 3D wall with cracks and scratches.
     - Rendering the 3D scene and captured 308 images using camera movement.
   
 2. Implemented a **semantic segmentation neural network** to detect cracks and scratches.
     - Extracted the **crack mask** and **scratch mask**.
-    - Multiclass Semantic Segmentation Network.
+    - **Multiclass Semantic Segmentation** Network.
       - Labeled each dataset
         - 0: Background
         - 1: Crack
         - 2: Scratch
-    - Training
+    - **Training**
       - Model: U-Net (Transfer Learning)
       - Loss Function: Cross Entropy Loss
       - Optimizer: Adam
       - Learning Rate: 0.0001
       - Epochs: 20
-    - Evaluation
-    ![screen reader text](vip_uncertainty.jpg "Evaluation")
-    ![screen reader text](vip_uncertain2.jpg "Uncertainty")
-      - Uncertainty Quantification
+    - **Evaluation**
+      - **Uncertainty Quantification**
+    ![screen reader text](vip_uncertainty.jpg "Figure 3: Evaluation")
+    ![screen reader text](vip_uncertain2.jpg "Figure 4: Uncertainty")
+
       

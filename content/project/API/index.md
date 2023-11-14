@@ -25,6 +25,7 @@ image:
     - Database: Firestore
     - Compute: Firebase Functions
   - **Features:**
+  ![screen reader text](api_upload.jpg "Figure 1: Upload Feature")
     - Authenticate
     - Upload
     - Update the package using ID
