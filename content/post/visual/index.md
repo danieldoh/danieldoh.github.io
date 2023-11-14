@@ -35,7 +35,9 @@ tags:
   - Undergraduate Research
 
 categories:
+  - Augmented Communication
   - Augmented Reality
+  - Text-to-Visual
 
 ---
 [DOI](https://dl.acm.org/doi/10.1145/3544548.3581566)
