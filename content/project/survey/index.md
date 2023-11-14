@@ -1,9 +1,9 @@
 ---
 title: An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions
-summary: ECE 46100 Software Engineering course semester-long project.
+summary: Reviewed 154 papers on Generative AI applications and synthesized a taxonomy of human-GenAI interactions for future design in the field.
 tags:
   - Artificial Intelligence
-date: "2023-05-4T00:00:00Z"
+date: "2023-10-5T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
