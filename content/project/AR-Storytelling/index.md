@@ -1,6 +1,7 @@
 ---
-title: Augmented Reality Storytelling
-summary: Storytelling in the form of an AR presentation and involves generating multi-modal content with generative AI.
+title: An Exploratory Study on Multi-modal Generative AI in AR Storytelling
+summary: Conducted an exploratory study on the effects of AI-generated multi-modal content on the expression
+and perception of AR Storytelling.
 tags:
   - Augmented Reality
   - Artificial Intelligence
@@ -13,3 +14,11 @@ image:
   focal_point: 
 ---
 
+## Project Description
+
+Conducted an exploratory study on the effects of AI-generated multi-modal content on the expression
+and perception of AR Storytelling.
+
+## Contribution
+
+**Lead**
