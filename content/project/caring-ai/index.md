@@ -2,9 +2,9 @@
 title: 'CARING-AI: Toward Authoring Context-aware Augmented Reality, INstruction through Generative Artificial Intelligence'
 summary: ECE 46100 Software Engineering course semester-long project.
 tags:
-  - Augmented/Mixed Reality
+  - Mixed Reality
   - Artificial Intelligence
-date: "2023-05-4T00:00:00Z"
+date: "2023-09-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

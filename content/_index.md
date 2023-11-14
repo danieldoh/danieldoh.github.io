@@ -61,8 +61,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Augmented/Mixed Reality
-          tag: Augmented/Mixed Reality
+        - name: Augmented Reality
+          tag: Augmented Reality
+        - name: Mixed Reality
+          tag: Mixed Reality
         - name: Artificial Intelligence
           tag: Artificial Intelligence
         - name: Computer Vision
