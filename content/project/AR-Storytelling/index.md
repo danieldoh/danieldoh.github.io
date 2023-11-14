@@ -1,5 +1,5 @@
 ---
-title: 'An Exploratory Study on Multi-modal Generative AI in AR Storytelling (In-Progress)'
+title: 'An Exploratory Study on Multi-modal Generative AI in AR Storytelling (In Progress)'
 summary: 'Conducted an exploratory study on the effects of AI-generated multi-modal content on the expression
 and perception of AR Storytelling.'
 tags:
@@ -21,7 +21,7 @@ image:
 Conducted an exploratory study on the effects of AI-generated multi-modal content on the expression and perception of AR Storytelling.
 
 # Contribution
-**Authorship:  Lead(in-progress)**
+**Authorship:  Lead(In Progress)**
 Aiming for CSCW 2024 January Cycle
 
 - Summarized a design space of multi-modal AR Storytelling and implemented a cognitive model for understanding the roles of authors and audiences in the storytelling process.

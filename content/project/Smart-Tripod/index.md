@@ -1,5 +1,5 @@
 ---
-title: Smart Tripod (In-Progress)
+title: Smart Tripod (In Progress)
 summary: Senior Design Project, Smart Tripod supporiting object detection and hand gesture recognition.
 tags:
   - Course Project
