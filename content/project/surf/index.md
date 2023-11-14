@@ -1,6 +1,6 @@
 ---
 title: Summer Undergraduate Research Fellowship (SURF)
-summary: Reviewed 154 papers on Generative AI applications and synthesized a taxonomy of human-GenAI interactions for future design in the field.
+summary: Conducted individual research by implementing an animation generation pipeline. 
 tags:
   - Undergraduate Research
   - Artificial Intelligence
@@ -9,34 +9,54 @@ date: "2023-10-5T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 image:
-  caption: 
+  caption: "SURF Symposium Poster"
   focal_point: 
 ---
-## Package Manager Application Programming Interface
+## Animation from Text and Pose
 
-**ECE 46100 Software Engineering**  
-[Source Code](https://github.com/danieldoh/PackageManager)
+**Research Problem**
+- Animation is hard and only a select few can create animations today.
 
-## Contribution
+**Motivation**
+- Our goal is to enable those without professional software expertise to create animations.
 
-- Implemented a REST API that manages packages.
-  - **Tools Used:**
-    - Storage: Firebase Storage
-    - Database: Firestore
-    - Compute: Firebase Functions
-  - **Features:**
-    - Authenticate
-    - Upload
-    - Update the package using ID
-    - Download the package using ID
-    - Reset the registry
-    - View package history
-    - Delete all packages
-    - Search using regex
-    - Search based on the version pinning
-    - Get the rate of the package
-- Designed ADA-compliant browser-based interface
-- Conducted STRIDE analysis
-- Deployed using Continuous Integration (CI) and Continuous Delivery (CD)
+**Approach**
+- Our pipeline generates animations from text and human poses by employing two key components:
+  1. Motion-Diffusion-Model (MDM): generating human skeleton sequences based on text.
+  2. Follow Your Pose: Pose-Guided Text-to-Video model.
+
+**Applications**
+- Animation
+
+## Methodology
+
+![screen reader text](surf_pipeline.jpg "Figure 1: Pipeline of Animation from Text and Pose")
+
+**MDM**
+- Input text: human action text (e.g., "a person walks forward and stops")
+
+**Pose-Guided Text-to-Video**
+- Generate the video based on reality video.
+- Input text: Appearance and Background (e.g., "Iron man on the beach")
+
+**Path Drawing Tools**
+- Enable user interaction through mouse movement.
+- Implemented with OpenCV.
+
+## Results
+![screen reader text](surf_1.jpg "Figure 2: Characters and Background Variation")
+![screen reader text](surf_2.jpg "Figure 3: Captain America kicks with his right leg in the snow")
+![screen reader text](surf_path.jpg "Figure 4: An astronaut is dancing on the moon & Path drawing tool")
+
+## Conclusion
+- Generated video showed strong alignment with provided prompts and pose
+- Interaction with the users by providing path drawing tools
+
+# Future Works
+- Need to implement MDM for generating **sequence of multiple human action** within a single video.
+- More **complex human action** need to be generated.
+- **Smoothness of the background** should be improved.
+
+
 
 

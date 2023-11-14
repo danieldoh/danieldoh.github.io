@@ -1,7 +1,7 @@
 ---
 title: 'CARING-AI: Toward Authoring Context-aware Augmented Reality, INstruction through Generative Artificial Intelligence'
-summary: 'Designed a code-less and Mocap-free workflow for authoring animated humanoid avatar instructions
-in AR with Generative-AI that is contextually aware of the human, environment, and system.'
+summary: 'A code-less and Mocap-free workflow for authoring animated humanoid avatar instructions
+in AR with Generative-AI.'
 tags:
   - Undergraduate Research
   - Mixed Reality
@@ -14,31 +14,10 @@ image:
   caption: 
   focal_point: 
 ---
-## Package Manager Application Programming Interface
-
-**ECE 46100 Software Engineering**  
-[Source Code](https://github.com/danieldoh/PackageManager)
-
 ## Contribution
 
-- Implemented a REST API that manages packages.
-  - **Tools Used:**
-    - Storage: Firebase Storage
-    - Database: Firestore
-    - Compute: Firebase Functions
-  - **Features:**
-    - Authenticate
-    - Upload
-    - Update the package using ID
-    - Download the package using ID
-    - Reset the registry
-    - View package history
-    - Delete all packages
-    - Search using regex
-    - Search based on the version pinning
-    - Get the rate of the package
-- Designed ADA-compliant browser-based interface
-- Conducted STRIDE analysis
-- Deployed using Continuous Integration (CI) and Continuous Delivery (CD)
+- Implemented an AR interface for authoring AR instructions based on textual input describing tasks, avatars’ trajectory, and directional vision. 
+- Contributed by developing various application scenarios for this system in diverse contexts.
+- Developed a user interface for a user study and evaluated the system.
 
 
