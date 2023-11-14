@@ -46,6 +46,7 @@ categories:
 **AR:**
   - Workout video centered in the user’s field of view
   - Real-time visual feedback
+
 **Additional Camera:**
   - For the full-body status of the users
   - Give feedback to adjust users’ movements in real-time
@@ -61,12 +62,14 @@ categories:
     - Visual metaphors 
       - Chair (where to squat)
       - Cone (height)
+
 **Task:** 
   - Identification:
     - Key movement information -> better understanding
   - Comparison:
     - Apply superposition
     - Overlaying users’ exercise performance onto standard visual cues
+    
 **Situation:**
   - Address frequent viewpoint shifts
     - Floating screen (out of sight)
