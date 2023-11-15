@@ -4,7 +4,7 @@ summary: 'Conducted an exploratory study on the effects of AI-generated multi-mo
 and perception of AR Storytelling.'
 tags:
   - Undergraduate Research
-  - Augmented Reality
+  - Extended Reality
   - Artificial Intelligence
 date: '2023-11-02T00:00:00Z'
 

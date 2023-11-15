@@ -25,12 +25,12 @@ organizations:
     url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are Human-AI interaction and its practical applications, particularly within Augmented/Mixed Reality, Task Guidance System, and AI-infused interfaces.
+bio: My research interests are Human-AI interaction and its practical applications, particularly within Extended Reality, Task Guidance System, and AI-infused interfaces.
 
 # Interests to show in About widget
 interests:
   - Human-AI Interaction
-  - Augmented / Mixed Reality
+  - Extended Reality
   - Artificial Intelligence
   - AI-Infused interfaces 
   - Task Guidance System
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-I am an undergraduate student in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I am a member of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), where I work as an undergraduate research assistant. My research interests are Human-AI interaction and its practical applications, particularly within Augmented/Mixed Reality Task Guidance System, and AI-infused interfaces.
+I am an undergraduate student in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I am a member of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), where I work as an undergraduate research assistant. My research interests are Human-AI interaction and its practical applications, particularly within Extended Reality, Task Guidance System, and AI-infused interfaces.
 {style="text-align: justify;"}

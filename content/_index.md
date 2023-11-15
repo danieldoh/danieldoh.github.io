@@ -65,10 +65,8 @@ sections:
           tag: Undergraduate Research
         - name: Course Project
           tag: Course Project
-        - name: Augmented Reality
-          tag: Augmented Reality
-        - name: Mixed Reality
-          tag: Mixed Reality
+        - name: Extended Reality
+          tag: Extended Reality
         - name: Artificial Intelligence
           tag: Artificial Intelligence
         - name: Computer Vision
