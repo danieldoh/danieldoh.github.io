@@ -36,6 +36,7 @@ tags:
 
 categories:
   - Augmented Reality
+  - Task Guidance System
 
 ---
 [DOI](https://dl.acm.org/doi/10.1145/3586183.3606796)
