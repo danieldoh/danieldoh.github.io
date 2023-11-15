@@ -22,7 +22,8 @@ Conducted an exploratory study on the effects of AI-generated multi-modal conten
 
 # Contribution
 **Authorship:  Lead(In Progress)**
-Aiming for CSCW 2024 January Cycle
+
+Aiming for **CSCW 2024** January Cycle
 
 - Summarized a design space of multi-modal AR Storytelling and implemented a cognitive model for understanding the roles of authors and audiences in the storytelling process.
 - Developed an experimental AR Storytelling testbed with AI-generated multi-modal content, integrating with multiple state-of-the art generative AI models.
