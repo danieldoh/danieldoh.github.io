@@ -19,6 +19,7 @@ image:
 [Source Code](https://github.com/allender14/ECE49022Group6)
 
 # Project Description
+![screen reader text](tripod.jpg "Figure 1: Product Sketch")
 
 The **Smart Tripod** allows avid adventurers to capture convenient and perfectly centered photos when nobody is around to hold the camera for them. The product fits a standard tripod and, once turned on, will be able to track the movement of the individual while they take their time to find the perfect shot to capture the moment. A simple visual gesture will cue the Smart Tripod to take a photo and save it for future viewing. The device is also battery-powered, lightweight, and ready to use without configuration. The Smart Tripod is ready to use no matter where your adventures might take you.
 

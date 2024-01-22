@@ -41,7 +41,7 @@ education:
   courses:
     - course: BS in Computer Engineering
       institution: Purdue University
-      year: 2023 (expected)
+      year: 2023
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

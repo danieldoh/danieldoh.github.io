@@ -26,6 +26,6 @@ image:
 
 - Contributed by developing various application scenarios for this system in diverse contexts.
 - Developed a user interface for a user study and evaluated the system.
-![screen reader text](caring_interface.jpg "Figure 2: User Study Interface")
+![screen reader text](caring_interface.jpg "Figure 1: User Study Interface")
 
 
