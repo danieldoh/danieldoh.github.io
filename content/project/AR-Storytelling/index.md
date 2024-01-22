@@ -14,7 +14,7 @@ image:
   focal_point: 
 ---
 
-# Submitted to CSCW 2024 January Cycle
+### Submitted to CSCW 2024 January Cycle
 Authorship: First Author
 
 # Abstract
