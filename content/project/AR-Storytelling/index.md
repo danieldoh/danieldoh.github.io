@@ -15,7 +15,7 @@ image:
 ---
 
 # Submitted to CSCW 2024 January Cycle
-** Authorship: First Author **
+Authorship: First Author
 
 # Abstract
 
