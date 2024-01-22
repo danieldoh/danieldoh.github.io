@@ -1,5 +1,5 @@
 ---
-title: 'An Exploratory Study on Multi-modal Generative AI in AR Storytelling (In Progress)'
+title: 'An Exploratory Study on Multi-modal Generative AI in AR Storytelling'
 summary: 'An exploratory study evaluating the impact of multi-modality AIGC regarding its quality, interactions to create, and capability of augmenting elements of AR Storytelling.'
 tags:
   - Undergraduate Research

@@ -111,7 +111,19 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      
       items:
+        - title: Researcher
+          company: Yonsei University
+          company_url: ''
+          text: 'Advisor: Dr. Byeon'
+          #company_logo: CDL
+          logo_folder: CDL
+          location: Republic of Korea
+          date_start: '2024-01-02'
+          date_end: ''
+          description: |2-
+              * Implementing object and keypoint detection
         - title: Undergraduate Research Assistant
           company: Convergence Design Lab
           company_url: 'https://engineering.purdue.edu/cdesign/wp/'
@@ -120,7 +132,7 @@ sections:
           logo_folder: CDL
           location: Purdue University, West Lafayette
           date_start: '2023-01-09'
-          date_end: ''
+          date_end: '2023-12-17'
           description: |2-
               * Developing AR Interfaces
               * Participating in HCI Research Projects
