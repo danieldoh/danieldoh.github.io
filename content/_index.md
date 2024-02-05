@@ -145,7 +145,7 @@ sections:
           logo_folder: CDL
           location: Purdue University, West Lafayette
           date_start: '2023-08-28'
-          date_end: ''
+          date_end: '2023-12-17'
           description: |2-
               * Weekly Office hour
               * Answering Questions
