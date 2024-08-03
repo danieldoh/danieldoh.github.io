@@ -113,6 +113,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       
       items:
+        - title: M.S. Thesis Track
+          company: Convergence Design Lab
+          company_url: 'https://engineering.purdue.edu/cdesign/wp/'
+          text: 'Advisor: Dr. Karthik Ramani'
+          #company_logo: CDL
+          logo_folder: CDL
+          location: Purdue University, West Lafayette
+          date_start: '2024-08-01'
+          date_end: ''
+          description: |2-
+              * Implement 3D hand-object interaction generation.
+              * Developed an experimental AR Storytelling testbed with AI-generated multi-modal content.
         - title: Researcher
           company: Yonsei University
           company_url: ''
@@ -121,9 +133,12 @@ sections:
           logo_folder: CDL
           location: Republic of Korea
           date_start: '2024-01-02'
-          date_end: ''
+          date_end: '2024-06-30'
           description: |2-
-              * Implementing object and keypoint detection
+              * Developed software applications that analyze and visualize measured bioaerosol concentration data.
+              * Analyzed and visualized data on animal behavior and plant growth in an aerosol exposure chamber.
+              * Labeled the lizard joints dataset and fine-tuned a deep learning network.
+              * Created a mobile AI application for autonomous bioaerosol recognition for smart farms.
         - title: Undergraduate Research Assistant
           company: Convergence Design Lab
           company_url: 'https://engineering.purdue.edu/cdesign/wp/'
@@ -134,9 +149,9 @@ sections:
           date_start: '2023-01-09'
           date_end: '2023-12-17'
           description: |2-
-              * Developing AR Interfaces
-              * Participating in HCI Research Projects
-              * Conducting HCI Research as a First-Author
+              * Developed AR Interfaces
+              * Participated in HCI Research Projects
+              * Conducted HCI Research as a First-Author
         - title: Teaching Assistant
           company: ECE 57000 Artificial Intelligence
           company_url: 'https://www.davidinouye.com/'
@@ -149,7 +164,7 @@ sections:
           description: |2-
               * Weekly Office hour
               * Answering Questions
-              * Grading Assignments
+              * Grading Assignments and Project
         - title: Summer Undergraduate Research Fellowship (SURF)
           company: Engineering Undergraduate Research Office (EURO)
           company_url: 'https://engineering.purdue.edu/Engr/Research/EURO'
@@ -159,7 +174,8 @@ sections:
           location: Purdue University, West Lafayette
           date_start: '2023-05-26'
           date_end: '2023-08-01'
-          description: Conducted research on animation generation from text and human pose by combining two diffusion models.
+          description: |2-
+              * Conducted research on animation generation from text and human pose by combining two diffusion models.
         - title: Vertically Integreated Projects Smart Cities
           company: 
           company_url: 'https://engineering.purdue.edu/Engr/Research/EURO'

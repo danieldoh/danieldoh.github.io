@@ -40,11 +40,9 @@ interests:
 education:
   courses:
     - course: M.S. in Electrical and Computer Engineering
-      institution: Purdue University
-      year: 2024 - Present
+      institution: Purdue University, 2024 - Present
     - course: B.S. in Computer Engineering
-      institution: Purdue University
-      year: 2023
+      institution: Purdue University, 2023
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
