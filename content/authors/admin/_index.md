@@ -39,7 +39,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BS in Computer Engineering
+    - course: M.S. in Electrical and Computer Engineering
+      institution: Purdue University
+      year: 2024 - Present
+    - course: B.S. in Computer Engineering
       institution: Purdue University
       year: 2023
 
