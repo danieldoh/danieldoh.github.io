@@ -29,12 +29,12 @@ bio: My research interests are Human-AI interaction and its practical applicatio
 
 # Interests to show in About widget
 interests:
+  - Artificial Intelligence
+  - Computer Vision
   - Human-AI Interaction
   - Extended Reality
-  - Artificial Intelligence
   - AI-Infused interfaces 
   - Task Guidance System
-  - Computer Vision
 
 # Education to show in About widget
 education:
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-I am an undergraduate student in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I am a member of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), where I work as an undergraduate research assistant. My research interests are Human-AI interaction and its practical applications, with a specific focus on Extended Reality, Task Guidance Systems, and AI-infused interfaces.
+I am a Master's student in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I am a member of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), under the supervision of Dr. Karthik Ramani. My research interests include Artificial Intelligence, Computer Vision, and Human-AI interaction, with a specific focus on practical applications in Extended Reality, Task Guidance Systems, and AI-infused interfaces.
 {style="text-align: justify;"}
