@@ -126,12 +126,12 @@ sections:
               * Implement 3D hand-object interaction generation.
               * Developed an experimental AR Storytelling testbed with AI-generated multi-modal content.
         - title: Researcher
-          company: Yonsei University
+          company: NEECS (Nano Energy Environment Convergence System) Lab
           company_url: ''
-          text: 'Advisor: Dr. Byeon'
+          text: 'Advisor: Dr. Jeonghoon Byeon'
           #company_logo: CDL
           logo_folder: CDL
-          location: Republic of Korea
+          location: Yonsei University, Seoul
           date_start: '2024-01-02'
           date_end: '2024-06-30'
           description: |2-
@@ -292,7 +292,7 @@ sections:
       #subtitle:
       #text:
       # Contact (add or remove contact options as necessary)
-      email: hjddoh@gmail.com
+      email: hdoh@purdue.edu
       #phone: 
       #appointment_url: ''
       # address:
