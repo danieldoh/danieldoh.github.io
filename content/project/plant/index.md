@@ -1,6 +1,6 @@
 ---
 title: Plant Growth Analysis in an Aerosol Exposure Chamber 
-summary: Analyzed and visualized data on plant in an aerosol exposure chamber.
+summary: Analyzed and visualized data on plant growth in an aerosol exposure chamber.
 tags:
   - Computer Vision
   - Artificial Intelligence
@@ -17,7 +17,9 @@ image:
 # Plant Growth in an Aerosol Exposure Chamber
 
 [Source Code](https://github.com/danieldoh/plant_app)
+
 [Plant Experiment Tutorial(Google Slides)](https://docs.google.com/presentation/d/1RLL0T2k3RYVzmFKLUulBE1aZwghCcP8Qk9Uw5Ux0VKQ/edit#slide=id.p)
+
 [Plant-Analysis App](https://plant-analysis.streamlit.app/)
 
 # Project Description
