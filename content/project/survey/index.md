@@ -4,6 +4,7 @@ summary: Reviewed 154 papers on Generative AI applications and synthesized a tax
 tags:
   - Research
   - Artificial Intelligence
+  - Data Management
 date: "2023-09-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

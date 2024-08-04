@@ -4,6 +4,7 @@ summary: Computer vision research focused on real-world applications such as det
 tags:
   - Research
   - Computer Vision
+  - Data Management
 date: '2023-05-04T00:00:00Z'
 
 external_link: ''

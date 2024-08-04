@@ -75,8 +75,6 @@ sections:
           tag: API
         - name: Data Management
           tag: Data Management
-        - name: Yonsei University
-          tag: Yonsei University
     # design:
     #   # Choose how many columns the section has. Valid values: '1' or '2'.
     #   columns: '1'
