@@ -16,9 +16,8 @@ image:
 ---
 # Animal Behavior Analysis in an Aerosol Exposure Chamber
 
-[Source Code](https://github.com/danieldoh/lizard_behavior_analysis)
-
-[Lizard Experiment Tutorial(Google Slides)](https://docs.google.com/presentation/d/1wFzATak-2whAXQeKLtLqoFcYjUzspXlpnnTqukoNyHw/edit?usp=sharing)
+- [Source Code](https://github.com/danieldoh/lizard_behavior_analysis)
+- [Lizard Experiment Tutorial(Google Slides)](https://docs.google.com/presentation/d/1wFzATak-2whAXQeKLtLqoFcYjUzspXlpnnTqukoNyHw/edit?usp=sharing)
 
 # Project Description
 - Motivation: Investigate whether aerosol exposure affects animal's behavior and walking patterns.
