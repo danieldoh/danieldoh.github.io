@@ -2,7 +2,7 @@
 title: Summer Undergraduate Research Fellowship (SURF)
 summary: Conducted individual research by implementing an animation generation pipeline. 
 tags:
-  - Undergraduate Research
+  - Research
   - Artificial Intelligence
 date: "2023-08-01T00:00:00Z"
 

@@ -2,7 +2,7 @@
 title: 'Visualizing Causality in Mixed Reality for Manual Task Learning: An Exploratory Study'
 summary: 'Conducted a study on the effects of visualizations of diverse levels of causality in manual task learning in MR.'
 tags:
-  - Undergraduate Research
+  - Research
   - Extended Reality
 date: "2023-09-18T00:00:00Z"
 

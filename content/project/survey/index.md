@@ -2,7 +2,7 @@
 title: An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions
 summary: Reviewed 154 papers on Generative AI applications and synthesized a taxonomy of human-GenAI interactions for future design in the field.
 tags:
-  - Undergraduate Research
+  - Research
   - Artificial Intelligence
 date: "2023-09-18T00:00:00Z"
 

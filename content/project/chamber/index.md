@@ -5,7 +5,7 @@ tags:
   - Computer Vision
   - Artificial Intelligence
   - Data Management
-  - Yonsei University
+  - Research
 date: "2024-04-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +16,7 @@ image:
 ---
 # Animal Behavior Analysis in an Aerosol Exposure Chamber
 
-[Source Code](https://github.com/danieldoh/PackageManager)
+[Source Code](https://github.com/danieldoh/lizard_behavior_analysis)
 [Lizard Experiment Tutorial(Google Slides)](https://docs.google.com/presentation/d/1wFzATak-2whAXQeKLtLqoFcYjUzspXlpnnTqukoNyHw/edit?usp=sharing)
 
 # Project Description

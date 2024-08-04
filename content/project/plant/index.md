@@ -5,7 +5,7 @@ tags:
   - Computer Vision
   - Artificial Intelligence
   - Data Management
-  - Yonsei University
+  - Research
 date: "2024-05-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +16,7 @@ image:
 ---
 # Plant Growth in an Aerosol Exposure Chamber
 
-[Source Code](https://github.com/danieldoh/PackageManager)
+[Source Code](https://github.com/danieldoh/plant_app)
 [Plant Experiment Tutorial(Google Slides)](https://docs.google.com/presentation/d/1RLL0T2k3RYVzmFKLUulBE1aZwghCcP8Qk9Uw5Ux0VKQ/edit#slide=id.p)
 [Plant-Analysis App](https://plant-analysis.streamlit.app/)
 

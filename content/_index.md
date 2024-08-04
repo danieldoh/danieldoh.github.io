@@ -61,8 +61,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Undergraduate Research
-          tag: Undergraduate Research
+        - name: Research
+          tag: Research
         - name: Course Project
           tag: Course Project
         - name: Extended Reality
