@@ -4,7 +4,7 @@ summary: ECE 46100 Software Engineering course semester-long project.
 tags:
   - Course Project
   - API
-date: "2023-05-4T00:00:00Z"
+date: "2023-05-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
