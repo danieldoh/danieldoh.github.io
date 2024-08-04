@@ -3,7 +3,6 @@ title: Plant Growth Analysis in an Aerosol Exposure Chamber
 summary: Analyzed and visualized data on plant growth in an aerosol exposure chamber.
 tags:
   - Computer Vision
-  - Artificial Intelligence
   - Data Management
   - Research
 date: "2024-05-20T00:00:00Z"
