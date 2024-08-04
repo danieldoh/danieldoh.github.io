@@ -4,6 +4,7 @@ summary: Senior Design Project, Smart Tripod supporiting object detection and ha
 tags:
   - Course Project
   - Computer Vision
+  - Artificial Intelligence
 date: '2023-10-20T00:00:00Z'
 
 external_link: ''

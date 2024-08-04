@@ -5,6 +5,7 @@ tags:
   - Research
   - Computer Vision
   - Data Management
+  - Artificial Intelligence
 date: '2023-05-04T00:00:00Z'
 
 external_link: ''
