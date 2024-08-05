@@ -2,8 +2,8 @@
 title: SINDy(Sparse Identification of Nonlinear Dynamics) Application
 summary: Python-based application for the automatic statistical analysis and visualization of bioaerosol concentration data.
 tags:
-  - Data Management
   - Research
+  - Data Management
 date: "2024-02-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
