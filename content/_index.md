@@ -50,7 +50,7 @@ sections:
       filters:
         folders:
           - project
-        tags: ['Extended Reality', 'Artificial Intelligence', 'Computer Vision', 'API', 'Course Project', 'Undergraduate Research']
+        tags: ['Extended Reality', 'Artificial Intelligence', 'Computer Vision', 'API', 'Course Project', 'Research', 'Data Management']
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
