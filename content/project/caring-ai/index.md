@@ -1,6 +1,6 @@
 ---
 title: 'CARING-AI: Toward Authoring Context-aware Augmented Reality, INstruction through Generative Artificial Intelligence'
-summary: 'A code-less and Mocap-free workflow for authoring animated humanoid avatar instructionsin AR with Generative-AI.'
+summary: 'A code-less and Mocap-free workflow for authoring animated humanoid avatar instructions in AR with Generative-AI.'
 tags:
   - Research
   - Extended Reality
