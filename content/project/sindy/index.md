@@ -24,15 +24,15 @@ image:
 **Programming**
 - Methodology: Developed software using Python and the PyQt5 library.
 - Features: The application includes 10 key features, each implemented through specific Python functions:
-  1. Importing and Displaying csv data
-  2. Log Transformation
-  3. Standardization
-  4. Target, input data, and order number selection
-  5. Plotting polynomial functions
-  6. Inserting threshold parameters
-  7. Plotting threshold functions
-  8. Inserting lambda values
-  9. Generating the final data equation
+  - Importing and Displaying csv data
+  - Log Transformation
+  - Standardization
+  - Target, input data, and order number selection
+  - Plotting polynomial functions
+  - Inserting threshold parameters
+  - Plotting threshold functions
+  - Inserting lambda values
+  - Generating the final data equation
 - Visualization: Implemented using the Matplotlib library
 
 ![screen reader text](sindy_main.jpg "Figure 1: SINDy application main page")
