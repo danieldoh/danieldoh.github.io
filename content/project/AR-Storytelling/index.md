@@ -5,7 +5,7 @@ tags:
   - Research
   - Extended Reality
   - Artificial Intelligence
-date: '2024-01-16T00:00:00Z'
+date: '2024-09-18T00:00:00Z'
 
 external_link: ''
 
@@ -14,7 +14,7 @@ image:
   focal_point: 
 ---
 
-### Submitted to CSCW 2024 January Cycle
+### Submitted to CHI 2025
 Authorship: First Author
 
 # Abstract

@@ -15,8 +15,10 @@ image:
 ---
 [Paper Link](https://danieldoh.github.io/publication/survey/)
 
+### Submitted to CSUR 2024
+Authorship: Co-Author
+
 # Contribution
-**Authorship: Co-Author**
 
 - Reviewed 154 papers on Generative AI applications.
   - Analyzed each paper based on 18 categories.

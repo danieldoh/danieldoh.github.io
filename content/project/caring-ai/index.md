@@ -5,7 +5,7 @@ tags:
   - Research
   - Extended Reality
   - Artificial Intelligence
-date: "2023-09-18T00:00:00Z"
+date: "2024-09-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,8 +15,10 @@ image:
 ---
 
 
+### Submitted to CHI 2025
+Authorship: Co-Author
+
 # Contribution
-**Authorship: Co-Author**
 
 - Implemented an AR interface for authoring AR instructions based on textual input describing tasks, avatars’ trajectory, and directional vision. 
   - Utilized **Unity**.
