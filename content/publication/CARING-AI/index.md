@@ -36,7 +36,7 @@ publishDate: '2023-10-18T00:00:00Z'
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: Submitted to 2024 CHI Conference on Human Factors in Computing Systems
+summary: Submitted to 2024 CSUR
 
 tags: []
 
