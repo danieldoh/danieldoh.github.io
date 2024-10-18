@@ -31,6 +31,7 @@ bio: My research interests are Human-AI interaction and its practical applicatio
 interests:
   - Artificial Intelligence
   - Computer Vision
+  - 3D Reconstruction
   - Human-AI Interaction
   - Extended Reality
   - AI-Infused interfaces 
