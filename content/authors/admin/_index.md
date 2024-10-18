@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-I am a Master's student in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I am a member of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), under the supervision of Dr. Karthik Ramani. My research interests include Artificial Intelligence, Computer Vision, and Human-AI interaction, with a specific focus on practical applications in Extended Reality, Task Guidance Systems, and AI-infused interfaces.
+I am a Master's student in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I am a member of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), under the supervision of Dr. Karthik Ramani. I am deep learning researcher with expertise in 3D Reconstruction focusing on category-agnostic 3D articulated objects reconstruction, 3D human avatars, and object pose estimation. I specializes in integrating Gaussian Splatting and Diffusion Models to enhance the quality of 3D object reconstruction, driving innovation in fields such as XR and Digital Twins. 
 {style="text-align: justify;"}
