@@ -3,7 +3,7 @@
 title: Hyungjun Doh
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Daniel Doh
 
 # Full name (for SEO)
 first_name: Hyungjun 
@@ -11,7 +11,7 @@ last_name: Doh
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👀
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,58 +31,46 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'hdoh@purdue.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/danieldoh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/hyungjun-doh99/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=NAp6u_cAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0008-3154-1201
 
 interests:
   - Artificial Intelligence
   - Computer Vision
   - 3D Reconstruction
+  - 4D Scene Editing
+  - Human-Object Interaction
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S. in Electrical and Computer Engineering
+    institution: Purdue University
+    date_start: 2024-08-20
+    date_end: 2026-05-07
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Advisor: Prof. Karthik Ramani (Convergence Design Lab). Research Interest: 3D Computer Vision: Human-Object Interaction and 4D Scene Editing
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: B.S. in Computer Engineering
+    institution: Purdue University
+    date_start: 2018-08-21
+    date_end: 2023-12-17
     summary: |
-      GPA: 3.8/4.0
+      # GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # # - lorem ipsum dolor sit amet, consectetur adipiscing eli
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +171,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Master's student in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I am a member of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), under the supervision of Dr. Karthik Ramani. I am deep learning researcher with expertise in 3D/4D Reconstruction focusing on Human-Object Interaction and 4D scene editing. I specializes in integrating Gaussian Splatting and Diffusion Models to enhance the quality of 3D object reconstruction, driving innovation in fields such as XR and Digital Twins. 
