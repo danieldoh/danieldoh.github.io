@@ -43,8 +43,8 @@ profiles:
     url: https://orcid.org/0009-0008-3154-1201
 
 interests:
-  - Artificial Intelligence
   - Computer Vision
+  - Artificial Intelligence
   - 3D Reconstruction
   - 4D Scene Editing
   - Human-Object Interaction
