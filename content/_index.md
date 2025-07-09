@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research focuses on 3D/4D reconstruction, 4D scene editing, and human-object interaction. 
         
-        Please reach out to collaborate 😃
+        During my Master’s, I published papers in ACM MM, CHI, and TVCG.
+        
     design:
       columns: '1'
   - block: collection
