@@ -3,7 +3,7 @@
 title: Hyungjun Doh
 
 # Name pronunciation (optional)
-name_pronunciation: Daniel Doh
+# name_pronunciation: Daniel Doh
 
 # Full name (for SEO)
 first_name: Hyungjun 
