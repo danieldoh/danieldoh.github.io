@@ -1,23 +1,29 @@
 ---
-title: 'An example conference paper'
+title: '[CHI 25] CARING-AI: Towards Authoring Context-aware Augmented Reality INstruction through Generative Artificial Intelligence'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Jingyu Shi
+  - Rahul Jain
+  - Seunggeun Chi
+  - Hyungjun Doh
+  - Hyung-gun Chi
+  - Alexander J Quinn
+  - Karthik Ramani
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2025-04-26T00:00:00Z'
+doi: 'https://doi.org/10.1145/3706598.3713348'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-04-26T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,16 +31,18 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: CHI '25 Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems
+publication_short: In *CHI*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Context-aware AR instruction enables adaptive and in-situ learning experiences. However, hardware limitations and expertise requirements constrain the creation of such instructions. With recent developments in Generative Artificial Intelligence (Gen-AI), current research tries to tackle these constraints by deploying AI-generated content (AIGC) in AR applications. However, our preliminary study with six AR practitioners revealed that the current AIGC lacks contextual information to adapt to varying application scenarios and is therefore limited in authoring. To utilize the strong generative power of GenAI to ease the authoring of AR instruction while capturing the context, we developed CARING-AI, an AR system to author context-aware humanoid-avatar-based instructions with GenAI. By navigating in the environment, users naturally provide contextual information to generate humanoid-avatar animation as AR instructions that blend in the context spatially and temporally. We showcased three application scenarios of CARING-AI: Asynchronous Instructions, Remote Instructions, and Ad Hoc Instructions based on a design space of AIGC in AR Instructions. With two user studies (N=12), we assessed the system usability of CARING-AI and demonstrated the easiness and effectiveness of authoring with Gen-AI.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-  - Large Language Models
+  - Human-Computer Interaction
+  - Human-centered computing
+  - Mixed / augmented reality
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,19 +52,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3706598.3713348'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -80,8 +88,3 @@ slides: example
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
