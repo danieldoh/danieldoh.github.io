@@ -1,5 +1,5 @@
 ---
-title: '[ACM MM 2025] Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction'
+title: '[ACM MM 2025 - Accepted] Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -23,7 +23,7 @@ date: '2025-07-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-10-27T00:00:00Z'
+publishDate: '2025-07-09T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
