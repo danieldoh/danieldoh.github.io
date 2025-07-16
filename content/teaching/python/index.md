@@ -1,6 +1,6 @@
 ---
 title: Calculus 2 (MA 16200)
-summary: 
+summary: Graduate Teaching Assistant for Calculs 2, Purdue University
 date: 2025-05-10
 type: docs
 math: True
