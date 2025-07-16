@@ -39,10 +39,9 @@ abstract: "Mixed Reality (MR) is gaining prominence in manual task skill learnin
 summary: ""
 
 tags:
-  - Computer Vision
-  - Artificial Intelligence
   - Human-Object Interaction
-  - 3D Gaussian Splatting
+  - Mixed / augmented reality
+  - Artificial Intelligence
 
 # Display this page in the Featured widget?
 featured: false
