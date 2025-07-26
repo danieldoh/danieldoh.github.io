@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -404,8 +404,8 @@ ninja.data = [{
           section: "News",},{id: "news-my-co-authored-paper-has-been-accepted-to-ieee-tvcg",
           title: 'My co-authored paper has been accepted to IEEE TVCG 🎉!',
           description: "",
-          section: "News",},{id: "news-i-started-my-m-s-in-electrical-and-computer-engineering-at-purdue-university-under-prof-karthik-ramani",
-          title: 'I started my M.S. in Electrical and Computer Engineering at Purdue University, under...',
+          section: "News",},{id: "news-i-started-my-m-s-in-electrical-and-computer-engineering-at-purdue-university",
+          title: 'I started my M.S. in Electrical and Computer Engineering at Purdue University.',
           description: "",
           section: "News",},{id: "news-i-started-my-graduate-teaching-assistant-role-for-ma-16500-calculus-1",
           title: 'I started my graduate teaching assistant role for MA 16500 (Calculus 1) 🧐....',
