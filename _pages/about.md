@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>hdoh@purdue.edu</p>
     <p>Purdue University</p>
     <p>West Lafayette, Indiana</p>
 
@@ -32,4 +33,4 @@ I am currently pursuing my **M.S. in the [Elmore Family School of Electrical and
 
 My research interests lie in exploring how generative models and neural rendering can enable more interactive, editable, and realistic 3D/4D digital worlds, driving innovation in Robotics, XR, and Digital Twins. My work has been published in **ACM Multimedia (ACM MM)**, the **ACM Conference on Human Factors in Computing Systems (CHI)**, and **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. I am currently leading a **4D Scene Editing project**. 
 
-[Resume](/assets/pdf/HJ_Doh_Resume.pdf) / [E-mail](hdoh@purdue.edu) / [LinkedIn](www.linkedin.com/in/hyungjun-doh99) / [Google Scholar](https://scholar.google.com/citations?user=NAp6u_cAAAAJ&hl=en) / [Github](https://github.com/danieldoh)
+[Resume](/assets/pdf/HJ_Doh_Resume.pdf) / [LinkedIn](https://www.linkedin.com/in/hyungjun-doh99/) / [Google Scholar](https://scholar.google.com/citations?user=NAp6u_cAAAAJ&hl=en) / [Github](https://github.com/danieldoh)

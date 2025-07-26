@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my graduate teaching assistant role for MA 16200 (Calculus 2) 🧐.
+I started my graduate teaching assistant role for MA 16200 (Calculus 2). 🧐
