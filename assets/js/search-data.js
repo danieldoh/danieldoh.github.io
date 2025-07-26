@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/#selected_papers";
+            window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
@@ -398,16 +398,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-earned-my-bachelor-s-degree-in-computer-engineering-from-purdue-university",
+          title: 'I earned my Bachelor’s degree in Computer Engineering 🎓 from Purdue University.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-my-co-authored-paper-has-been-accepted-to-ieee-tvcg",
+          title: 'My co-authored paper has been accepted to IEEE TVCG 🎉!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-started-my-m-s-in-electrical-and-computer-engineering-at-purdue-university-under-prof-karthik-ramani",
+          title: 'I started my M.S. in Electrical and Computer Engineering at Purdue University, under...',
+          description: "",
+          section: "News",},{id: "news-i-started-my-graduate-teaching-assistant-role-for-ma-16500-calculus-1",
+          title: 'I started my graduate teaching assistant role for MA 16500 (Calculus 1) 🧐....',
+          description: "",
+          section: "News",},{id: "news-i-started-my-graduate-teaching-assistant-role-for-ma-16200-calculus-2",
+          title: 'I started my graduate teaching assistant role for MA 16200 (Calculus 2) 🧐....',
+          description: "",
+          section: "News",},{id: "news-my-co-authored-paper-caring-ai-has-been-accepted-to-the-chi-2025-conference",
+          title: 'My co-authored paper, CARING-AI has been accepted to the CHI 2025 Conference 😎!...',
+          description: "",
+          section: "News",},{id: "news-my-first-author-paper-has-been-accepted-to-the-acm-mm-2025-conference",
+          title: 'My first author paper has been accepted to the ACM MM 2025 Conference...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
