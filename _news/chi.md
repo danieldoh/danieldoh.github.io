@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My co-authored paper, [CARING-AI](https://dl.acm.org/doi/10.1145/3706598.3713348) has been accepted to the CHI 2025 Conference. 😎
+My co-authored paper, [CARING-AI](https://dl.acm.org/doi/10.1145/3706598.3713348) has been **accepted** to the CHI 2025 Conference. 😎

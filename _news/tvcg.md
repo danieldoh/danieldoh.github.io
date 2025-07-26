@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My co-authored [paper](https://ieeexplore.ieee.org/abstract/document/10901853) has been accepted to IEEE TVCG. 🎉
+My co-authored [paper](https://ieeexplore.ieee.org/abstract/document/10901853) has been **accepted** to IEEE TVCG. 🎉
