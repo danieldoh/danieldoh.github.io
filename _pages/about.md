@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -26,4 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master's student in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I am a member of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), under the supervision of Dr. Karthik Ramani. I am deep learning researcher with expertise in 3D/4D Reconstruction focusing on Human-Object Interaction and 4D scene editing. I specializes in integrating Gaussian Splatting and Diffusion Models to enhance the quality of 3D object reconstruction, driving innovation in fields such as XR and Digital Twins. 
+I am a Deep Learning researcher specializing in **3D/4D Reconstruction**, with a focus on **Human-Object Interaction** and **4D Scene Editing**.
+
+I am currently pursuing my **M.S. in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE)** at **[Purdue University](https://www.purdue.edu/)**, where I work in the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/) under the supervision of **Dr. Karthik Ramani**. I earned my **B.S. in Computer Engineering** at **[Purdue University](https://www.purdue.edu/)**.
+
+My research interests lie in exploring how generative models and neural rendering can enable more interactive, editable, and realistic 3D/4D digital worlds, driving innovation in Robotics, XR, and Digital Twins**. My work has been published in **ACM Multimedia (ACM MM)**, the **ACM Conference on Human Factors in Computing Systems (CHI)**, and **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. I am currently leading a **4D Scene Editing project** targeting **ICLR 2026**, where I integrate Gaussian Splatting, Diffusion Models, and Neural Fields to advance the fidelity of 3D object reconstruction.
+
+[CV](/assets/pdf/HJ_Doh_Resume.pdf) / [LinkedIn](www.linkedin.com/in/hyungjun-doh99) / [Google Scholar](https://scholar.google.com/citations?user=NAp6u_cAAAAJ&hl=en) / [Github](https://github.com/danieldoh)

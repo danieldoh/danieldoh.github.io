@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /#selected_papers
+permalink: /publications/
 title: Publications
 description: 
 nav: true

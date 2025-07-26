@@ -7,6 +7,13 @@ nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+![Purdue](/assets/img/purdue_logo.png)
 
-Organize your courses by years, topics, or universities, however you like!
+## Graduate Teaching Assistant (Calculus I & II)
+
+**August 2024 ~ May 2025**
+
+- Led three weekly recitation sections each semester, providing step-by-step demonstrations of problem-solving techniques.
+- Managed grading and academic progress for approximately 100 students per semester.
+- Offered active academic support to help students succeed in foundational mathematics courses.
+
