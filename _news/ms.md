@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my M.S. in Electrical and Computer Engineering at Purdue University, under Prof. Karthik Ramani.
+I started my M.S. in Electrical and Computer Engineering at Purdue University.

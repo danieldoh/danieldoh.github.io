@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-![Purdue](/assets/img/purdue_logo.png)
+<img src="/assets/img/purdue_logo.png" alt="Purdue" width="200">
 
 ## Graduate Teaching Assistant (Calculus I & II)
 
