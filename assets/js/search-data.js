@@ -399,7 +399,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-earned-my-bachelor-s-degree-in-computer-engineering-from-purdue-university",
-          title: 'I earned my Bachelor’s degree in Computer Engineering 🎓 from Purdue University.',
+          title: 'I earned my Bachelor’s degree in Computer Engineering from Purdue University. 🎓',
           description: "",
           section: "News",},{id: "news-my-co-authored-paper-has-been-accepted-to-ieee-tvcg",
           title: 'My co-authored paper has been accepted to IEEE TVCG. 🎉',
