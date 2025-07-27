@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I earned my Bachelor’s degree in Computer Engineering 🎓 from Purdue University.
+I earned my Bachelor’s degree in Computer Engineering from Purdue University. 🎓  
