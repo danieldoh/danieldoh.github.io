@@ -17,3 +17,13 @@ nav_order: 4
 - Managed grading and academic progress for approximately 100 students per semester.
 - Offered active academic support to help students succeed in foundational mathematics courses.
 
+---
+
+<img src="/assets/img/purdue_logo.png" alt="Purdue" width="200">
+
+## Undergraduate Teaching Assistant (ECE 57000: Artificial Intelligence)
+
+**August 2023 ~ December 2023**
+
+- Conducted weekly office hours to support students with AI programming homework and AI research projects.
+- Assisted in grading assignments and provided constructive feedback to students
