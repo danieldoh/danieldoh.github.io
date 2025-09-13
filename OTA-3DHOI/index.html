@@ -181,8 +181,7 @@
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body">
-      <div class="columns is-centered has-text-centered" style="width: 100%; margin: 0px 0 0;">
-        <div class="column" style="width: 10%; padding: 0;">
+      <div class="columns is-centered has-text-centered">
         <img src="static/images/teaser.png" alt="Teaser" style="width: 100%; height: auto;" />
         <figcaption class="custom-caption"> 
           <em>(left)</em> In human–object interaction (HOI) scenarios, occlusions frequently affect both the human and the object. <em>(middle)</em>
@@ -190,8 +189,8 @@
           temporally consistent image sequences, we reconstruct the human and object using a 3D Gaussian splatting representation,
           enabling animatable 3D HOI applications.
       </figcaption>
-  </figure>
-    </div>    
+  </figure>  
+  </div>
   </div>
 </div>
 </section>
@@ -291,6 +290,55 @@
         </div>
       </div>
     </div>
+
+    <!-- application -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column">
+        <h2 class="title is-3">Application in 3D Reconstruction</h2>
+        <hr>
+        <div class="content has-text-justified">
+          <p>
+            Our occlusion-aware, temporally consistent amodal completion framework enables photo-realistic and animatable 3D human–object interaction reconstructions from monocular video using 3D Gaussian Splatting.
+          </p>
+        </div>
+        <video id="example" controls playsinline height="100%">
+              <source src="./static/videos/3D_HOI_with_different_object.mp4"
+                      type="video/mp4">
+        </video>
+      </div>
+    </div>
+
+    <!-- Qualitative Results. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column">
+        <h2 class="title is-3">Qualitative Comparison</h2>
+        <hr>
+        <img src="static/images/2D_qual.png" alt="Teaser" style="width: 100%; height: auto;" />
+        <div class="content has-text-justified">
+          <p>
+            Qualitative comparison on 
+            <a href="https://virtualhumans.mpi-inf.mpg.de/behave/" target="_blank">BEHAVE</a> (Square Table, Small Table) 
+            and <a href="https://intercap.is.tue.mpg.de/" target="_blank">InterCap</a> (Skateboard).
+            Our method produces accurate and temporally consistent completions of occluded regions.
+         </p>
+        </div>
+      </div>
+    </div>
+
+     <!-- Quantitative Results. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column">
+        <h2 class="title is-3">Quantitative Comparison</h2>
+        <hr>
+        <img src="static/images/quant.png" alt="Teaser" style="width: 100%; height: auto;" />
+        <div class="content has-text-justified">
+          <p>
+            Quantitative Comparison on <a href="https://virtualhumans.mpi-inf.mpg.de/behave/" target="_blank">BEHAVE</a> and <a href="https://intercap.is.tue.mpg.de/" target="_blank">InterCap</a>
+            for Amodal Completion and Temporal Consistency: Our method achieves consistently strong performance, highlighting its robustness to occlusion and temporal challenges. Bold and underline denote the best and second-best scores.
+         </p>
+        </div>
+      </div>
+    </div>
     <!--/ Abstract. -->
 
     <!-- Paper video. -->
@@ -308,13 +356,15 @@
 </section>
 
 
-<section class="section">
+
+
+<!-- <section class="section">
   <div class="container is-max-desktop">
 
-    <div class="columns is-centered">
+    <div class="columns is-centered"> -->
 
       <!-- Visual Effects. -->
-      <div class="column">
+      <!-- <div class="column">
         <div class="content">
           <h2 class="title is-3">Visual Effects</h2>
           <p>
@@ -326,11 +376,11 @@
                     type="video/mp4">
           </video>
         </div>
-      </div>
+      </div> -->
       <!--/ Visual Effects. -->
 
       <!-- Matting. -->
-      <div class="column">
+      <!-- <div class="column">
         <h2 class="title is-3">Matting</h2>
         <div class="columns is-centered">
           <div class="column content">
@@ -346,16 +396,16 @@
 
         </div>
       </div>
-    </div>
+    </div> -->
     <!--/ Matting. -->
 
     <!-- Animation. -->
-    <div class="columns is-centered">
+    <!-- <div class="columns is-centered">
       <div class="column is-full-width">
-        <h2 class="title is-3">Animation</h2>
+        <h2 class="title is-3">Animation</h2> -->
 
         <!-- Interpolating. -->
-        <h3 class="title is-4">Interpolating states</h3>
+        <!-- <h3 class="title is-4">Interpolating states</h3>
         <div class="content has-text-justified">
           <p>
             We can also animate the scene by interpolating the deformation latent codes of two input
@@ -385,11 +435,11 @@
             <p class="is-bold">End Frame</p>
           </div>
         </div>
-        <br/>
+        <br/> -->
         <!--/ Interpolating. -->
 
         <!-- Re-rendering. -->
-        <h3 class="title is-4">Re-rendering the input video</h3>
+        <!-- <h3 class="title is-4">Re-rendering the input video</h3>
         <div class="content has-text-justified">
           <p>
             Using <span class="dnerf">Nerfies</span>, you can re-render a video from a novel
@@ -406,16 +456,16 @@
             <source src="./static/videos/replay.mp4"
                     type="video/mp4">
           </video>
-        </div>
+        </div> -->
         <!--/ Re-rendering. -->
-
+<!-- 
       </div>
-    </div>
+    </div> -->
     <!--/ Animation. -->
 
 
     <!-- Concurrent Work. -->
-    <div class="columns is-centered">
+    <!-- <div class="columns is-centered">
       <div class="column is-full-width">
         <h2 class="title is-3">Related Links</h2>
 
@@ -438,11 +488,11 @@
           </p>
         </div>
       </div>
-    </div>
+    </div> -->
     <!--/ Concurrent Work. -->
-
+<!-- 
   </div>
-</section>
+</section> -->
 
 
 <section class="section" id="BibTeX">
