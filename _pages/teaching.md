@@ -11,7 +11,7 @@ nav_order: 4
 
 ## Graduate Teaching Assistant (ECET 34900 - Advanced Digital Systems & ECET 33900 - Digital Signal Processing)
 
-**August 2025 ~ Present **
+**August 2025 ~ Present**
 
 - Led lab sessions for undergraduate students, reinforcing concepts in digital systems and signal processing.
 - Guided students through hands-on experiments, clarifying lab instructions and troubleshooting technical issues.
