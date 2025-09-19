@@ -420,7 +420,7 @@ ninja.data = [{
           title: 'My first author paper has been accepted to the ACM MM 2025 Conference....',
           description: "",
           section: "News",},{id: "news-i-started-graduate-teaching-assistant-role-for-ecet-34900-advance-digital-systems-and-ecet-33900-digital-signal-processing",
-          title: 'I started graduate teaching assistant role for (ECET 34900) Advance Digital Systems and...',
+          title: 'I started graduate teaching assistant role for ECET 34900 (Advance Digital Systems) and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
