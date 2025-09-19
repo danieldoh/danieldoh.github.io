@@ -9,7 +9,16 @@ nav_order: 4
 
 <img src="/assets/img/purdue_logo.png" alt="Purdue" width="200">
 
-## Graduate Teaching Assistant (Calculus I & II)
+## Graduate Teaching Assistant (ECET 34900 - Advanced Digital Systems & ECET 33900 - Digital Signal Processing)
+
+**August 2025 ~ Present **
+
+- Led lab sessions for undergraduate students, reinforcing concepts in digital systems and signal processing.
+- Guided students through hands-on experiments, clarifying lab instructions and troubleshooting technical issues.
+
+<img src="/assets/img/purdue_logo.png" alt="Purdue" width="200">
+
+## Graduate Teaching Assistant (MA 16200 - Calculus I & MA 16500 - Calculus II)
 
 **August 2024 ~ May 2025**
 

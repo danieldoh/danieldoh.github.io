@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started graduate teaching assistant role for (ECET 34900) Advance Digital Systems and (ECET 33900) Digital Signal Processing. 🧐
+I started graduate teaching assistant role for ECET 34900 (Advance Digital Systems) and ECET 33900 (Digital Signal Processing). 🧐
