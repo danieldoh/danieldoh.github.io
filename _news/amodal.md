@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first author [paper](https://danieldoh.github.io/OTA-3DHOI/) has been **accepted** to the **ACM MM 2025** Conference. 😎
+My co-first author [paper](https://danieldoh.github.io/OTA-3DHOI/) has been **accepted** to **ACM MM 2025**. 😎
