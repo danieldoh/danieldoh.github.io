@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 10 # leave blank to include all the news in the `_news` folder
+  limit: 6 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -29,7 +29,7 @@ latest_posts:
 
 I am a Deep Learning researcher specializing in **3D/4D Reconstruction**, with a focus on **Human-Object Interaction** and **4D Scene Editing**.
 
-I am currently pursuing my **M.S. in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE)** at **[Purdue University](https://www.purdue.edu/)**, where I work in the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/) under the supervision of **Dr. Karthik Ramani**. I earned my **B.S. in Computer Engineering** at **[Purdue University](https://www.purdue.edu/)**.
+I am currently completing my **M.S. in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE)** at **[Purdue University](https://www.purdue.edu/)**, where I work in the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/) under the supervision of **Dr. Karthik Ramani**. I will be joining **[Purdue University](https://www.purdue.edu/)** as a **Ph.D. student in Electrical and Computer Engineering** starting Fall 2026. I earned my **B.S. in Computer Engineering** at **[Purdue University](https://www.purdue.edu/)**.
 
 My research interests lie in enable machines to reason about complex, interacting environments with the fidelity of human perception, and in exploring how generative models and neural rendering can enable more interactive, editable, and realistic 3D/4D digital worlds, driving innovation in Robotics, XR, and Digital Twins. My work has been published in **CVPR**, **ACM MM**, **CHI**, and **IEEE TVCG**. 
 
