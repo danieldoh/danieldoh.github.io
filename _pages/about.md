@@ -33,4 +33,4 @@ I am a **Ph.D. student in Electrical and Computer Engineering** at Purdue Univer
 
 My research interests lie in enabling machines to reason about complex, interacting environments with the fidelity of human perception, and in exploring how generative models and neural rendering can enable more interactive, editable, and realistic **3D/4D digital worlds**. Through this work, I aim to drive innovation in **Robotics**, **XR**, and **Digital Twins**. My work has been published in **CVPR**, **ACM MM**, **CHI**, and **IEEE TVCG**.
 
-[CV](/assets/pdf/HJ_Doh_Resume.pdf) / [LinkedIn](https://www.linkedin.com/in/hyungjun-doh99/) / [Google Scholar](https://scholar.google.com/citations?user=NAp6u_cAAAAJ&hl=en) / [Github](https://github.com/danieldoh)
+[CV](/assets/pdf/HJ_CV.pdf) / [LinkedIn](https://www.linkedin.com/in/hyungjun-doh99/) / [Google Scholar](https://scholar.google.com/citations?user=NAp6u_cAAAAJ&hl=en) / [Github](https://github.com/danieldoh)
