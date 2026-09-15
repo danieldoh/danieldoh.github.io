@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Deep Learning researcher specializing in **3D/4D Reconstruction**, with a focus on **Human-Object Interaction** and **4D Scene Editing**.
+I am a **computer vision and embodied AI researcher** focusing on integrating **spatiotemporal representations into vision-language-action (VLA) models** for reliable robotic manipulation. My research builds on my prior work in **3D/4D reconstruction**, **human-object interaction**, and **4D scene editing**.
 
 I am a **Ph.D. student in Electrical and Computer Engineering** at Purdue University, advised by **[Dr. Lu Su](https://engineering.purdue.edu/~lusu/)**. I earned my M.S. in Electrical and Computer Engineering from Purdue University, where I worked in the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/) under the supervision of Dr. Karthik Ramani. I also earned my B.S. in Computer Engineering from Purdue University.
 
-My research interests lie in enabling machines to reason about complex, interacting environments with the fidelity of human perception, and in exploring how generative models and neural rendering can enable more interactive, editable, and realistic **3D/4D digital worlds**. Through this work, I aim to drive innovation in **Robotics**, **XR**, and **Digital Twins**. My work has been published in **CVPR**, **ACM MM**, **CHI**, and **IEEE TVCG**.
+My research aims to help machines understand and interact with dynamic physical environments, with applications in **robotics, digital twins, and XR**. My work has been published at **CVPR, ACM MM, and CHI**, and in **IEEE TVCG**.
 
 [CV](/assets/pdf/HJ_CV.pdf) / [LinkedIn](https://www.linkedin.com/in/hyungjun-doh99/) / [Google Scholar](https://scholar.google.com/citations?user=NAp6u_cAAAAJ&hl=en) / [Github](https://github.com/danieldoh)
